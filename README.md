@@ -1,5 +1,3 @@
-## .NET core 2.2 automation using TestProject
+### TestProject .NET Core 2.2 // Selenium
 
-
-//
-Just learning about C# automation for backend units tests.
+- Studyng .NET Core, and unit tests for backend web services.
