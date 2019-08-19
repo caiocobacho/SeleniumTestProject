@@ -1,0 +1,11 @@
+C:\Users\caio\source\repos\SeleniumTestForEA\SeleniumTestForEA\bin\Debug\netcoreapp2.2\SeleniumTestForEA.deps.json
+C:\Users\caio\source\repos\SeleniumTestForEA\SeleniumTestForEA\bin\Debug\netcoreapp2.2\SeleniumTestForEA.dll
+C:\Users\caio\source\repos\SeleniumTestForEA\SeleniumTestForEA\obj\Debug\netcoreapp2.2\SeleniumTestForEA.csprojAssemblyReference.cache
+C:\Users\caio\source\repos\SeleniumTestForEA\SeleniumTestForEA\obj\Debug\netcoreapp2.2\SeleniumTestForEA.csproj.CoreCompileInputs.cache
+C:\Users\caio\source\repos\SeleniumTestForEA\SeleniumTestForEA\obj\Debug\netcoreapp2.2\SeleniumTestForEA.AssemblyInfoInputs.cache
+C:\Users\caio\source\repos\SeleniumTestForEA\SeleniumTestForEA\obj\Debug\netcoreapp2.2\SeleniumTestForEA.AssemblyInfo.cs
+C:\Users\caio\source\repos\SeleniumTestForEA\SeleniumTestForEA\bin\Debug\netcoreapp2.2\SeleniumTestForEA.pdb
+C:\Users\caio\source\repos\SeleniumTestForEA\SeleniumTestForEA\obj\Debug\netcoreapp2.2\SeleniumTestForEA.dll
+C:\Users\caio\source\repos\SeleniumTestForEA\SeleniumTestForEA\obj\Debug\netcoreapp2.2\SeleniumTestForEA.pdb
+C:\Users\caio\source\repos\SeleniumTestForEA\SeleniumTestForEA\bin\Debug\netcoreapp2.2\SeleniumTestForEA.runtimeconfig.json
+C:\Users\caio\source\repos\SeleniumTestForEA\SeleniumTestForEA\bin\Debug\netcoreapp2.2\SeleniumTestForEA.runtimeconfig.dev.json
